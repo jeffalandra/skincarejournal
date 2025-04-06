@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skincarejournal/static/css/main.bd0e2f31.css",
+    "main.js": "/skincarejournal/static/js/main.73909c29.js",
+    "static/js/453.40eec1da.chunk.js": "/skincarejournal/static/js/453.40eec1da.chunk.js",
+    "index.html": "/skincarejournal/index.html",
+    "main.bd0e2f31.css.map": "/skincarejournal/static/css/main.bd0e2f31.css.map",
+    "main.73909c29.js.map": "/skincarejournal/static/js/main.73909c29.js.map",
+    "453.40eec1da.chunk.js.map": "/skincarejournal/static/js/453.40eec1da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd0e2f31.css",
+    "static/js/main.73909c29.js"
+  ]
+}
