@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/skincarejournal/static/css/main.e5b53057.css",
-    "main.js": "/skincarejournal/static/js/main.d5322554.js",
+    "main.css": "/skincarejournal/static/css/main.41ed04c7.css",
+    "main.js": "/skincarejournal/static/js/main.fb6f42ac.js",
     "static/js/453.40eec1da.chunk.js": "/skincarejournal/static/js/453.40eec1da.chunk.js",
     "index.html": "/skincarejournal/index.html",
-    "main.e5b53057.css.map": "/skincarejournal/static/css/main.e5b53057.css.map",
-    "main.d5322554.js.map": "/skincarejournal/static/js/main.d5322554.js.map",
+    "main.41ed04c7.css.map": "/skincarejournal/static/css/main.41ed04c7.css.map",
+    "main.fb6f42ac.js.map": "/skincarejournal/static/js/main.fb6f42ac.js.map",
     "453.40eec1da.chunk.js.map": "/skincarejournal/static/js/453.40eec1da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5b53057.css",
-    "static/js/main.d5322554.js"
+    "static/css/main.41ed04c7.css",
+    "static/js/main.fb6f42ac.js"
   ]
 }
